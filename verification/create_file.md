@@ -1,5 +1,5 @@
 
 Create file 
 ```
-/etc/panda
+touch /etc/panda
 ```{{exec}}
