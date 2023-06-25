@@ -1,2 +1,2 @@
 
-Create file `/etc/panda`
+Create file ```/etc/panda```{{exec}}
